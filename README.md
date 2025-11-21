@@ -51,7 +51,7 @@ Full-stack e-commerce platform with AI-powered product search, admin dashboard, 
 Real-time messaging with **online/offline status**, media sharing, and secure JWT authentication.  
 **Tech:** React, Redux, Node.js, Express, Socket.io, MongoDB  
 **Live Demo:** [Click Here](https://real-time-chat-app-1-5ked.onrender.com)  
-**Code:** [GitHub Repo]([YourRepoLink](https://github.com/Ritupagar12/Real_Time_Chat_App))  
+**Code:** [GitHub Repo](https://github.com/Ritupagar12/Real_Time_Chat_App)  
 
 ---
 
